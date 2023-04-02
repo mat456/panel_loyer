@@ -3,7 +3,6 @@ numpy
 matplotlib
 seaborn
 scipy
-math
 statsmodel
 random
 scikit-learn
